@@ -1,4 +1,4 @@
-# Progetto-Blockchain - Analysis of the Complex Networks of Tweets related to NFTs
+# Analysis of the Complex Networks of Tweets related to NFTs
 
 ## Corso universitario
 Blockchain and Cryptocurrencies
