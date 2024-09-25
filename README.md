@@ -7,7 +7,7 @@ Blockchain and Cryptocurrencies
 Laurea Magistrale in Informatica
 
 ## Voto
-30 e Lode/30
+30L/30
 
 ## Partecipanti
 - Riccardo Spini
