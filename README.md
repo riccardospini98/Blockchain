@@ -7,9 +7,9 @@ Blockchain and Cryptocurrencies
 Laurea Magistrale in Informatica
 
 ## Voto
-30L/30
+30 e Lode
 
 ## Partecipanti
-- Riccardo Spini
 - Martina Daghia
 - Martina Zauli
+- Riccardo Spini
